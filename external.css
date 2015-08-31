@@ -1,0 +1,21 @@
+	h1			{background-color: black;  font-family: verdana; color: WHITE; border-style: solid; border-color: black; text-align: center;}
+	h2			{font-family: verdana; color: black; border-style: solid; background-color:lightgrey}
+	h3			{font-family: verdana; color: black; text-decoration: underline}
+	p			{font-family: verdana; color: black; border-style: solid; font-size: 85%}
+	table       {width: 100%;}
+	th          {height: 21px}
+	table,th,td {border: 1px solid black; color: black; font-family: verdana; font-size: 70%}
+	ul.a 		{list-style-type: square; height: 81px}
+	a:hover   	{background-color: white; color: black}
+	li 			{font-family: verdana; color: black}
+	.col-1-1			{width: 50.00%;}
+	.col-1-2 			{width: 50.00%;}
+	.col-2-1 			{width: 70.00%;}
+	.col-2-2 			{width: 0.00%;}
+	.col-2-3 			{width: 30.00%;}
+	[class*='col-'] 	{float: left;}
+	li 			{font-family: verdana; color: black; display: inline;}
+	a:link	{text-decoration:none};
+	a:visited {text-decoration:none};
+	a:hover {text-decoration:none};
+	a:active {text-decoration:none}
